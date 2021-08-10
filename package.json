@@ -58,7 +58,9 @@
   ],
   "dependencies": {
     "@babel/core": "^7.15.0",
+    "@storybook/addon-storysource": "^6.3.7",
     "babel-loader": "^8.2.2",
+    "react-clock": "^3.0.0",
     "storybook": "^6.3.7"
   }
 }
